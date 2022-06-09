@@ -1,4 +1,4 @@
-<img src="gif/tecnology.gif" align='right' width='40%' style='transform'>
+<img src="gif/tecnology2.gif" align='right' width='40%' style='transform'>
 <h1 align='center'>Welcome for my profile <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 
 <h2 align='center'> Hi, I'm Miguel and I'm student of front end 🚀</h2>
