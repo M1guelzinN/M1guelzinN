@@ -1,14 +1,15 @@
-<img src="banner/antonio.jpg" align='center'>
-<h1 align='center'>Welcome for my profile <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
+<img src="banner/banner-ant.jpg" align='center'>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=M1guelzinN&color=red"Profile views" /></p>
+<h1 align='center'>Welcome  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"></h1>
 
-<h2 align='center'> Hi, I'm Miguel and I'm student of front end 🚀</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=M1guelzinN&color=blue"Profile views" /></p>
+<p align='center'>Olá, Eu sou o Miguel, desenvolvedor front end junior🚀</p>
+
  
  
  
  
 
- <h2 align='center'> 🛠 Tech Stack</h2>
+ <h2 align='center'> 🛠 Skills</h2>
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -18,3 +19,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
  
+
