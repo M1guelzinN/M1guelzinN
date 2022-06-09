@@ -21,4 +21,4 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guelzinN&layout=compact&theme=vision-friendly-dark" alt="M1guelzinN's most languages"/>
 </p>
  
-<a href="https://github.com/M1guelzinN?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=M1guelzinN&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a>
+<a align='center' href="https://github.com/M1guelzinN?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=M1guelzinN&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a>
