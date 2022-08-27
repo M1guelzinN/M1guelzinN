@@ -5,7 +5,7 @@
 🎓 Estou cursando o 2° série do ensino médio.<br>
 🎂 <strong>16 anos!</strong><br>
 📨 <strong>Veja mais no meu [LinkedIn](https://www.linkedin.com/in/antonio-miguel-437b20239/)</strong>.<br>
-⚡ <strong>Curiosidade:</strong>Uma das minhas atividades favoritas são jogar basquete e ler um bom livro. 🏀📖<br>
+⚡ <strong>Curiosidade:</strong> Uma das minhas atividades favoritas são jogar basquete e ler um bom livro. 🏀📖<br>
  
 <div align='center'>  <br>
   <div  width='100%' style="display: inline-block">
