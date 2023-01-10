@@ -2,8 +2,8 @@
 <h1 align="center">Olá, Eu sou o Antonio Miguel<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"></h1>
 
 🌱 Sou desenvolvedor <strong>front end jr</strong> com muita sede de conhecimento.<br>
-🎓 Estou cursando o 2° série do ensino médio.<br>
-🎂 <strong>16 anos!</strong><br>
+🎓 Estou cursando o 3° série do ensino médio.<br>
+🎂 <strong>17 anos!</strong><br>
 📨 <strong>Veja mais no meu [LinkedIn](https://www.linkedin.com/in/antonio-miguel-437b20239/)</strong>.<br>
 ⚡ <strong>Curiosidade:</strong> Algumas das minhas atividades favoritas são jogar basquete e ler um bom livro. 🏀📖<br>
  
