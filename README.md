@@ -22,13 +22,10 @@
     <img align="center" alt="Hick-Figma" height="50" width="60"src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </div>
  <br><br>
-  <div style="display:"style="display: inline-block">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guelzinN&layout=compact&langs_count=7&theme=github_dark"/>
-  </div>
  </div>
 
-<a align='center' href="https://github.com/M1guelzinN?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=M1guelzinN&theme=nord&bg_color=2f343f00&hide_border=false" width="100%"/></a>
-<img src="banner/readmeMig.jpg" align='center'>
+ <!-- <a align='center' href="https://github.com/M1guelzinN?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=M1guelzinN&theme=nord&bg_color=2f343f00&hide_border=false" width="100%"/></a>
+--> <img src="banner/readmeMig.jpg" align='center'>
  
  <p align='center'> 🚀 </p>
 
